@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://mori-system.github.io/
+url: https://mori-system.github.io
 title: Morisystem
 email: sc.choi@morisystem.com
 author: CHOI AM
 description: > # "Write an awesome description for your new site here.
-お互い支え合うことの大切さ。モリシステムは、システム設計・システム開発を通して社会貢献します。
+
 
 copyright: 'Copyright &copy; 2018 Morisystem All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'

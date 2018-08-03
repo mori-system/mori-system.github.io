@@ -1,0 +1,40 @@
+---
+layout: default
+img: mori.jpg
+category: Services
+title: "会社概要"
+description: |
+---
+  <table class="table" style="font-family: fontawesomeregular; font-size:10pt" >
+    <tr>
+    <th colspan="2">最高の技術で豊かな未来を創ります。</th>
+    </tr>
+    <tr>
+    <th>会社名称</th>
+    <td>株式会社モリシステム </td>
+    </tr>
+    <tr>
+    <th>設立年</th>
+    <td>2014年12月</td>
+    </tr>
+    <tr>
+    <th>所在地</th>
+    <td>〒136-0071 東京都江東区亀戸5-34-8<br/>&nbsp;モリプラニング第2ビル　3F</td>
+    </tr>
+    <tr>
+    <th>電話番号</th>
+    <td>03-5628-1761</td>
+    <tr>
+    <th>FAX番号</th>
+    <td>03-5628-1762</td>
+    </tr>
+    </tr>
+    <tr>
+    <th>社員数</th>
+    <td>32名</td>
+    </tr>
+    <tr>
+    <th>主な事業内容</th>
+    <td>ITコンサルティング、システム設計、開発</td>
+    </tr>
+  </table>

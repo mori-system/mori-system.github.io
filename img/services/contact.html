@@ -1,0 +1,67 @@
+﻿
+<?xml version="1.0" encoding="Shift_JIS"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+ <head>
+  <!-- -*- xml -*- -->
+  <meta name="robots" content="noindex,nofollow" />
+  <meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
+  <title>お問い合わせ　株式会社モリプランニング</title>
+  <meta name="description" content="株式会社モリプランニングへのお問い合わせ" />
+  <meta name="keywords" content="モリプランニング,モリプラ,お問い合わせ,ジュエリー,磁気ネックレス,販売,企画" />
+  <meta name="copyright" content="http://www.moriplanning.jp" />
+  <meta name="content-language" content="ja" />
+  <meta http-equiv="content-style-type" content="text/css" />
+  <meta http-equiv="content-script-type" content="text/javascript" />
+  <link rel="stylesheet" href="../css/form.css" type="text/css" />
+  <link rev="made" href="mailto:&#109;&#111;&#114;&#105;&#107;&#97;&#119;&#97;&#64;&#109;&#111;&#114;&#105;&#112;&#108;&#97;&#46;&#99;&#111;&#46;&#106;&#112;" />
+  <script type="text/javascript" src="../mail/mailform.js" charset="utf-8"></script>
+ </head>
+
+ <body>
+  <form id="mailform" method="post" action="../mail/send.cgi" onsubmit="return sendmail(this);">
+   <input type="hidden" name="subject" value="【モリプランニング】 お問い合わせ" />
+   <table border="0" align="center" cellpadding="5" cellspacing="1" bgcolor="#ffffff">
+    <tr>
+     <td width="170">お名前<span class="txt-red">※</span><br /><span class="exampleFont">例：山田　太郎</td>
+     <td><input class="ime0" size="60" type="text" name="お名前(必須)" /></td>
+    </tr>
+    <tr>
+     <td>ふりがな<span class="txt-red">※</span><br /><span  class="exampleFont">例：やまだ　たろう</span></td>
+     <td><input class="ime0" size="60" type="text" name="ふりがな(必須)" /></td>
+    </tr>
+    <tr>
+     <td>電話番号<br /><span class="exampleFont">例：03-1234-5678</span></td>
+     <td><input class="ime1" size="60" type="text" name="電話番号" /></td>
+    </tr>
+    <tr>
+     <td>メールアドレス<span class="txt-red">※</span><br /><span class="exampleFont">例：web@moriplanning.com</span></td>
+     <td><input class="ime1" size="60" type="text" name="email(必須)" /></td>
+    </tr>
+    <tr>
+     <td>メールアドレス<span class="txt-red">※</span><br /><span class="exampleFont">確認用メールアドレス</span></td>
+     <td><input class="ime1" type="text" name="confirm_email" size="60" /></td>
+    </tr>
+    <tr>
+     <td>内容<span class="txt-red">※</span><br /><span class="exampleFont">お問い合わせ内容</span></td>
+     <td><textarea class="ime0" name="内容(必須)" rows="10" cols="45"></textarea></td>
+    </tr>
+   </table>
+   <br />
+
+   <div align="center">
+   	<p class="exampleFont" style="color: red; font-weight: bold;" > <span>※</span><a href="javascript:windowOpen()"> 個人情報の取り扱いについてご覧ください</a> </p>
+    <input type="checkbox" id="check" name="「個人情報の取り扱いについて同意します」(必須)" />個人情報の取り扱いについて同意して送信する<br />
+    <br/>
+    <input type="submit" value="送信する" />　
+    <input type="reset" value="クリアする" />
+   </div>
+  </form>
+  
+<script type="text/javascript">
+function windowOpen(){
+	window.open('../contact_notice.html','window');
+}
+</script>
+ </body>
+</html>

@@ -1,0 +1,32 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: "ソリューション紹介"
+description: |
+---
+### System Integration
+
+#### 概要
+
+   * 開発・構築業務に伴うエンジニア支援を行います。
+
+#### 提供ソリューション
+
+   * システム運用・保守業務(主にＪＡＶＡ、.NET系)
+   * ソフトウェア開発技術者指導
+   * インフラ構築技術者指導
+
+### 社内ソリューション
+
+#### 受託開発
+
+   * インターネットテクノロジーによる e-business を支援
+   * 各種WWWサーバー構築
+   * JAVA、JAVAScript、JSP、JQuery、STRUTSなどのフレームワークをベースとした
+　 * Webアプリケーション開発
+
+#### 在庫管理システム
+
+   * JAVA、STRUTS2、MySqlを用いた独自の在庫管理システムを開発
+   * 現在は本社のジュエリーの在庫管理システムとして利用中

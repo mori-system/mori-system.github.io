@@ -1,33 +1,23 @@
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
-
 url: https://mori-system.github.io
 title: Morisystem
 email: sc.choi@morisystem.com
 author: CHOI AM
-description: > # "Write an awesome description for your new site here.
-
+description: >
 
 copyright: 'Copyright &copy; 2018 Morisystem All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: 'Morisystem'
 
-# ----------------------- #
-#    Jekyll & Plugins     #
-# ----------------------- #
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
-
 social:
-  - title: web
+  - title: home
+    url: https://mori-system.github.io/
+  - title: facebook
     url: http://www.morisystem.com
+  - title: twitter
+    url: https://twitter.com/moriplanning
   - title: github
-    url: https://github.com/mori-system.com
-  - title: linkedin
-    url:
+    url: https://github.com/mori-system

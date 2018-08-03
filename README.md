@@ -13,4 +13,4 @@
 
     > http://localhost:4000/
 
-   #### end : `Ctrl + c  & Push 'Y'`
+   #### end : `Ctrl + c`  &  `Push 'Y'`

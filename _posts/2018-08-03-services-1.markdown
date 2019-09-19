@@ -30,4 +30,4 @@ description: |
 
    * JAVA、STRUTS2、MySqlを用いた独自の在庫管理システムを開発
    * 現在は本社のジュエリーの在庫管理システムとして利用中
-   * test
+   

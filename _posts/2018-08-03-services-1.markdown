@@ -1,11 +1,11 @@
 ---
 layout: default
-img: ipad1.png
+img: ipad.png
 category: Services
 title: "ソリューション紹介"
 description: |
 ---
-### 1System Integration
+### System Integration
 
 #### 概要
 

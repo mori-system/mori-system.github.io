@@ -1,6 +1,6 @@
 ---
 layout: default
-img: mori.jpg
+img: mori.png
 category: Services
 title: "会社概要"
 description: |

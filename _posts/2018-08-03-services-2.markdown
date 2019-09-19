@@ -2,7 +2,7 @@
 layout: default
 img: link-moriplanning.jpg
 category: Services
-title: "本社ホームページへのリンク"
+title: "1本社ホームページへのリンク"
 description: 
 ---
 

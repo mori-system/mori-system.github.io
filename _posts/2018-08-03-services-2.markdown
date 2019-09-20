@@ -2,13 +2,13 @@
 layout: default
 img: mori.jpg
 category: Services
-title: "1本社ホームページへのリンク"
+title: "本社ホームページへのリンク"
 description: 
 ---
 
 <table class="table">
 <tr>
-<th class="tamidashi" colspan="2">1他サイトへのリンク</th>
+<th class="tamidashi" colspan="2">他サイトへのリンク</th>
 </tr>
 <tr>
 <th><a href="http://www.moriplanning.jp/">モリプラニング</a></th>

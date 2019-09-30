@@ -4,9 +4,6 @@
 
 - morisystem old home
  > http://www.morisystem.com
-
-- morisystem test home
- > http://morisystem.us-east-2.elasticbeanstalk.com/
  
  - morisystem local home
    #### start : `bundle exec jekyll serve`
